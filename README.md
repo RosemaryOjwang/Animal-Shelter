@@ -17,6 +17,6 @@ _A HTML website for Animal Shelter where Animals' profiles are displayed in colu
 
 ## License
 
-_[MIT]()_
+_[MIT](https://opensource.org/licenses/MIT)_
 
 _Copyright (c) _2020_ _Rosemary Ojwang_
